@@ -6,6 +6,5 @@ Downloading latest Julia: https://julialang.org/downloads/
 
 Downloading previous iterations of Julia: https://julialang.org/downloads/oldreleases/
 
-
-
-
+# Opening and running this notebook
+You may download and open the notebook locally if you have jupyter notebook installed which can be done following: https://jupyter.org/install
