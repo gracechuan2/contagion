@@ -8,3 +8,5 @@ Downloading previous iterations of Julia: https://julialang.org/downloads/oldrel
 
 # Opening and running this notebook
 You may download and open the notebook locally if you have jupyter notebook installed which can be done following: https://jupyter.org/install
+
+A note about presentation of figures as outputs in github: There may be some bugs when displaying some charts directly in github which does not reflect the true output of the plotting functions. These bugs are related solely to displaying the figures in github not the figures and their content themselves. The code does produce the corresponding figures shown in the paper when run and are displayed properly in the notebook when locally opened in jupyter notebook.
